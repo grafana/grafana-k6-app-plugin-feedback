@@ -7,7 +7,7 @@
 # Grafana k6 plugin
 
 
-## Feature Requests/Bug reports
+## Feature Requests and bug reports
 Are you a user of the Grafana k6 plugin, and have spotted a bug or have an idea of how the plugin could be improved? Then you've come to the right place. In this repo you can report issues, suggest/discuss and vote for ideas that you'd like to see implemented.
 
 ## How do I report a bug or suggest an idea?
